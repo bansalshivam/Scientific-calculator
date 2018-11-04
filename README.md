@@ -1,5 +1,10 @@
 # Scientific-calculator
 This Scientific calculator performs the basic arithmetic and trigonometric operations. 
+
+
+
+
+
 It can also be used to find roots of equations.
 It is written in python3.
 To run this you need python3 and above.
